@@ -1,6 +1,6 @@
 # block_network
 
-A new Flutter project.
+Bloc architecture using Cubit.
 
 ## Getting Started
 
